@@ -1,0 +1,6 @@
+data/
+__pycache__/
+*.pyc
+mnist_test_png/
+*.log
+.DS_Store
